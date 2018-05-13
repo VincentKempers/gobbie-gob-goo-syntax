@@ -1,12 +1,10 @@
 # GobGobGoo
 A Simple Goooie syntax theme for Atom !
 
-![Javascript](assets/javascript.png)
-_Javascript_
-![Javascript](assets/css.png)
-_CSS_
-![Javascript](assets/html.png)
-_HTML_
+![JavaScript Syntax Example](./assets/js.png)
+![CSS Syntax Example](./assets/css.png)
+![PHP Syntax Example](./assets/php.png)
+![Vue Syntax Example](./assets/vue.png)
 
 # Installing
 You can download this syntax theme:
