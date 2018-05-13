@@ -1,29 +1,25 @@
-# GobGobGoo
+# Gobbie Gob Goo Syntax Theme
 
-A Simple Goooie syntax theme for Atom !
+A simple _gooey_ syntax theme for Atom!
 
 ![JavaScript Syntax Example](./assets/js.png)
 ![CSS Syntax Example](./assets/css.png)
 ![PHP Syntax Example](./assets/php.png)
 ![Vue Syntax Example](./assets/vue.png)
 
-# Installing
+## Installation
 
-You can download this syntax theme:
+Find this theme (`gobbiegobgoo`) in Atom's "Install" section. (Don't forget to toggle it to search for themes!), or run `apm install gobbiegobgoo`.
 
-* via `apm`
-* via `install` switch to themes and type: `gobbiegobgoo`
+## Contributing
 
-# But i want this?
+If they're things you'd like to see different in the theme, feel free to [shoot me an issue](https://github.com/VincentKempers/gobbie-gob-goo-syntax/issues/new/choose)!
 
-Are there things you would like to see, throw an issue!
-_if somebody already threw an issue at it add a reaction or thumbs up_
+## Customization
 
-# Customise
+I personally like using this _gooey_ goodness using the following Atom config:
 
-How I use this simple "gooie" goodness is with a bit of changing the line-height and having my font a bit bigger.
-
-```JSON
+```json
 editor:
   fontFamily: "Source Code Variable"
   fontSize: 15
@@ -33,6 +29,6 @@ editor:
   softWrap: true
 ```
 
-# Credits
+## License
 
-[MIT](LICENSE)
+[MIT](LICENSE) &copy; [Vincent Kempers](https://github.com/VincentKempers)
