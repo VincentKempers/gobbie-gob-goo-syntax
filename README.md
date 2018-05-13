@@ -2,10 +2,6 @@
 
 A simple _gooey_ syntax theme for Atom!
 
-![JavaScript Syntax Example](./examples/js.png)
-![CSS Syntax Example](./examples/css.png)
-![PHP Syntax Example](./examples/php.png)
-![Vue Syntax Example](./examples/vue.png)
 
 ## Installation
 
@@ -28,6 +24,24 @@ editor:
   showIndentGuide: true
   softWrap: true
 ```
+
+## Examples
+
+### JavaScript
+
+![JavaScript Syntax Example](./examples/js.png)
+
+### CSS
+
+![CSS Syntax Example](./examples/css.png)
+
+### Vue
+
+![Vue Syntax Example](./examples/vue.png)
+
+### PHP
+
+![PHP Syntax Example](./examples/php.png)
 
 ## License
 
