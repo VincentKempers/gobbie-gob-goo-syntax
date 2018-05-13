@@ -2,10 +2,10 @@
 
 A simple _gooey_ syntax theme for Atom!
 
-![JavaScript Syntax Example](./assets/js.png)
-![CSS Syntax Example](./assets/css.png)
-![PHP Syntax Example](./assets/php.png)
-![Vue Syntax Example](./assets/vue.png)
+![JavaScript Syntax Example](./examples/js.png)
+![CSS Syntax Example](./examples/css.png)
+![PHP Syntax Example](./examples/php.png)
+![Vue Syntax Example](./examples/vue.png)
 
 ## Installation
 
