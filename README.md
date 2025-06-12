@@ -1,7 +1,7 @@
 # Gobbie Gob Goo Syntax Theme
 
 A simple _gooey_ syntax theme for Atom!
-
+_update to vs code and nvim coming soon_
 
 ## Installation
 
