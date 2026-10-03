@@ -1,0 +1,30 @@
+{
+  "name": "gobbie-gob-goo",
+  "displayName": "Gobbie Gob Goo",
+  "description": "A dark theme with a bit of light",
+  "version": "2.0.0",
+  "publisher": "VincentKempers",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VincentKempers/gobbie-gob-goo-syntax"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": ["Themes"],
+  "keywords": ["theme", "dark", "gobbie", "gob", "goo"],
+  "galleryBanner": {
+    "color": "#252c38",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gobbie Gob Goo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gobbie-gob-goo-color-theme.json"
+      }
+    ]
+  }
+}

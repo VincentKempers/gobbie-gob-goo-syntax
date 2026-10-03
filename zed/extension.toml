@@ -1,0 +1,7 @@
+id = "gobbie-gob-goo"
+name = "Gobbie Gob Goo"
+version = "2.0.0"
+schema_version = 1
+authors = ["Vincent Kempers <vincent.m.kempers@gmail.com>"]
+description = "A dark theme with a bit of light"
+repository = "https://github.com/VincentKempers/gobbie-gob-goo-syntax"

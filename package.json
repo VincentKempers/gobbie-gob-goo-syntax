@@ -1,18 +1,12 @@
 {
-  "name": "GobbieGobGoo",
-  "theme": "syntax",
-  "version": "1.0.4",
-  "description": "A dark theme with a bit of light",
-  "keywords": [
-    "syntax",
-    "theme",
-    "Gob",
-    "Gobbie",
-    "Goo"
-  ],
-  "repository": "https://github.com/VincentKempers/gobbie-gob-goo-syntax",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+  "name": "gobbie-gob-goo",
+  "private": true,
+  "version": "2.0.0",
+  "description": "A dark theme with a bit of light — for VS Code, Zed and Vim",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "package:vscode": "npm run build && cd vscode && npx --yes @vscode/vsce package"
+  },
+  "license": "MIT"
 }

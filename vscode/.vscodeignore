@@ -1,0 +1,3 @@
+.vscodeignore
+node_modules/**
+*.vsix
