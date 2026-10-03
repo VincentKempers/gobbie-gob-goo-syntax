@@ -2,7 +2,7 @@
 
 A simple _gooey_ dark theme with a bit of light — revamped for **VS Code**, **Zed** and **Vim / Neovim**.
 
-Originally an Atom syntax theme ([gobbie-gob-goo-syntax](https://github.com/VincentKempers/gobbie-gob-goo-syntax)). The palette is ported 1:1, including the Less `lighten()`/`darken()` derived colors.
+Originally an Atom syntax theme ([gobbie-gob-goo-syntax](https://github.com/VincentKempers/gobbie-gob-goo-syntax)) (v1.0). The palette is ported 1:1, including the Less `lighten()`/`darken()` derived colors.
 
 ## Project layout
 
